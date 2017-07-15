@@ -1,2 +1,3 @@
 # dryrun
-project having a try
+create a project for testing only!
+
